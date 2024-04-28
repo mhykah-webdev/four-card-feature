@@ -90,10 +90,6 @@ body {
     padding: 5rem 2rem;
 }
 
-.hero {
-    margin-inline: auto;
-}
-
 .card {
     background-color: #FFFFFF;
     padding: 1.75rem;
@@ -121,6 +117,7 @@ body {
 
 .hero {
     text-align: center;
+    margin-inline: auto;
     margin-bottom: 4.75rem;
     max-width: 33.75rem;
 }
@@ -136,6 +133,7 @@ body {
     font-size: 15px;
     color: #A6A8B1;
     letter-spacing: 0.1px;
+    line-height: 25px;
 }
 
 .content {
@@ -153,6 +151,7 @@ body {
     margin-bottom: 2rem;
     color: #A6A8B1;
     letter-spacing: 0.09px;
+    line-height: 23px;
 }
 
 .card>img {
